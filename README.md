@@ -1,2 +1,6 @@
 # the_spark_bank
-This is a simple banking site where you can do transaction, view users, validate them.
+
+#-------------Created by Prince Kumar.--------#
+This is a simple banking site where you can perform transaction between two persons, view users, validate  them.
+
+
