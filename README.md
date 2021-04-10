@@ -2,6 +2,10 @@
 
 #-----------------------------------------------------------------------Created by Prince Kumar -------------------------------------------------------------------------------#
 
+Front Page of Our Bank Website.
+![Uploading Capture.JPG…]()
+
+
 This is a simple banking site where you can perform transaction between two persons, view users, validate  them.
 
 This Project consist of
